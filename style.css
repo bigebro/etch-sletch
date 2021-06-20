@@ -1,0 +1,27 @@
+.square {
+    background-color: white;
+    border: 1px solid black;
+}
+
+#container {
+    height: 70%;
+    width: 30%;
+    display: grid;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    flex-direction: column;
+    height: 125px;
+    width: 69px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin: 20px;
+}
